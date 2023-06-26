@@ -18,4 +18,4 @@ Explicando o comando:
 
 Documentação com explicação: https://angular.io/cli/generate
 
-O componente é criado dentro da pasta APP.
+O componente é criado dentro da pasta APP. A documentação do Angular está na página https://angular.io/tutorial/first-app/first-app-lesson-02.
